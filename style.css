@@ -218,7 +218,7 @@ div:hover .fact {
     grid-row-start: 1;
     max-height: 650px;
     margin-left: -40px;
-    margin-top: 20px;
+    margin-top: 37px;
 }
 
 .media2 {
@@ -252,7 +252,7 @@ div:hover .fact {
     padding: 3.75em 3em;
     position: absolute;
     text-align: center;
-    top: -31px;
+    top: -15px;
     right: 0;
     -webkit-transition: 0.6s;
     transition: 0.6s;
