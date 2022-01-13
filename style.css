@@ -35,6 +35,8 @@ body {
   justify-content: center;
   align-items: center;
   margin-top: 200px;
+  flex-wrap: wrap;
+  padding-bottom: 100px;
 }
 
 .flexhelmet {
@@ -44,18 +46,17 @@ body {
   align-items: center;
   margin: 0px;
   color: white;
+  flex-wrap: wrap;
+  padding-bottom: 100px;
 }
 
 .flexhelmet2 {
   display: flex;
-  flex-direction: row;
-  justify-content: space-between;
+  flex-direction: column;
+  justify-content: center;
   align-items: center;
-  margin-left: 177px;
-  margin-top: -22px;
   color: white;
   font-family: "Roboto Mono", monospace;
-  width: 1093px;
 }
 
 .helmetsize {
@@ -70,15 +71,17 @@ body {
 
 .timelinesize {
   width: 150px;
-  margin: 0px;
+  margin-top: -15px;
   position: relative;
   z-index: 1;
+  padding-bottom: 50px;
 }
 
 .helmetindex {
   position: relative;
   z-index: 2;
   margin-top: -70px;
+  padding-bottom: 100px;
 }
 
 .fact {
@@ -260,7 +263,6 @@ div:hover .fact {
   font-size: 1em;
   left: 300px;
   opacity: 0;
-  /*overflow: hidden;*/
   padding: 3.75em 3em;
   position: static;
   text-align: center;
