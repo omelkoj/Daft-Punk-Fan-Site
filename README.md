@@ -22,7 +22,9 @@ to be able to listen to Daft Punk's key albums, find out more about them, visit 
 
 - The "Listen page" media player links kept jumping back up to the top every time the album image was clicked. I fixed this by putting a letter + hashtag into the href, instead of just the #. Simple, but it worked!
 
-# FEEDBACK FROM LEE
+- I learned the importance of keeping clean and organized code, with layout and comments.
+
+# FEEDBACK FROM LEE MCPETERS (Teacher)
 
 Julia,
 
