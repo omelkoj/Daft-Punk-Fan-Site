@@ -1,7 +1,5 @@
 ## DAFT PUNK FAN SITE (PROJECT 2)
 
-You can use the [editor on GitHub](https://github.com/omelkoj/JuliaOmelkoPortfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
 This is my Project 2 for the Front End Developement Bootcamp at Albany Can Code. It is a fan site for the band Daft Punk, and the goal of the site is for visitors
 to be able to listen to Daft Punk's key albums, find out more about them, visit their various social media sites, and view their film Electroma. 
 
